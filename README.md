@@ -52,6 +52,4 @@ This project is licensed under the MIT License. Feel free to contribute and impr
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📧 Contact
-For any inquiries, reach out to msrishav28@gmail.com or open an issue in this repository.
 
